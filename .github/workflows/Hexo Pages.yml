@@ -42,3 +42,4 @@ jobs:
       with:
         branch: pages
         folder: public
+        clean: false
