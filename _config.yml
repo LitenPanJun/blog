@@ -101,6 +101,6 @@ theme: flex-block
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: git
-  repo: https://github.com/LitenPanJun/blog.git
+#deploy:
+  #type: git
+  #repo: https://github.com/LitenPanJun/blog.git
