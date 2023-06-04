@@ -38,10 +38,7 @@ jobs:
 
     - name: Deploy hexo blog
       # 将编译后的博客文件推送到指定仓库
-      run: |
-        cd ./public && git init && git add .
-        git config user.name "LitenPanJun"
-        git config user.email "xiaopanjun233@163.com"
-        git add .
-        git commit -m "GitHub Actions Auto Builder at $(date +'%Y-%m-%d %H:%M:%S')"
-        git push --force "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@github.com/LitenPanJun/blog.git" master:pages
+      uses: JamesIves/github-pages-deploy-action@v4.3.3
+      with:
+        branch: pages
+        folder: public
