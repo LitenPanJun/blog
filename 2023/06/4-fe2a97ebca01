@@ -24,7 +24,7 @@
 
   
 
-  <title>about | Liten_PanJun&#39;s Blog</title>
+  <title>2023高考纪实（亲身经历） | Liten_PanJun&#39;s Blog</title>
 
   
 
@@ -47,7 +47,7 @@
   <div class="root-container">
     
 <!-- header container -->
-<header class="header-container">
+<header class="header-container post">
   
     <div class="post-image" style="background-image: url(https://qiniu.sukoshi.xyz/src/images/68686407_p0.jpg)"></div>
   
@@ -97,36 +97,101 @@
 
   
   
-
-  
-  
     <div class="header-content">
-      <div class="post-text layout-block layout-padding">
-        <h1 class="title-wrap">about</h1>
-        
+      <div class="post-text layout-block">
+        <div class="layout-margin">
+          <h1 class="title-wrap">2023高考纪实（亲身经历）</h1>
+          <h2 class="title-sub-wrap">
+            <strong>Liten_PanJun</strong>
+            <span>发布于</span>
+            <time  class="article-date" datetime="2023-06-04T17:57:45.000Z" itemprop="datePublished">2023-06-05</time>
+          </h2>
+          
+          
+          <ul class="wrap-list dark">
+  
+    <li><a href="/blog/categories/%E7%94%9F%E6%B4%BB%E7%90%90%E4%BA%8B/">📒 生活琐事</a></li>
+  
+</ul>
+          <ul class="wrap-list dark">
+  
+    <li><a href="/blog/tags/%E6%97%A5%E8%AE%B0/">🏷️ 日记</a></li>
+  
+    <li><a href="/blog/tags/%E7%94%9F%E6%B4%BB/">🏷️ 生活</a></li>
+  
+</ul>
+        </div>
       </div>
     </div>
+  
+
+  
   
   
 </header>
 
-    <!-- 分页(其他自定义页面) -->
+    <!-- 文章 -->
 
-<!-- 自定义页面 -->
-
+<!-- 文章内容 -->
 <div class="body-container">
   <article class="content-container layout-block post-container">
     <div class="article-info">
       
+      
+      
+      
       <section class="article-entry markdown-body layout-margin content-padding--large soft-size--large soft-style--box">
-        
+        <h1 id="2023高考纪实（亲身经历）"><a href="#2023高考纪实（亲身经历）" class="headerlink" title="2023高考纪实（亲身经历）"></a>2023高考纪实（亲身经历）</h1>
       </section>
 
       
       
+        <nav class="article-nav">
+          
+            <div class="article-nav-item layout-padding">
+  <article class="card-container article-nav-card content-padding--primary soft-size--large soft-style--box">
+    
+    <div class="card-text">
+      
+        <a href="/blog/2023/06/4-edb90262b432" itemprop="url">
+          <h2 class="card-text--title text-ellipsis">利用Github Action实现Hexo持续集成并利用Github Pages完成个人博客搭建</h2>
+        </a>
+      
+      <div class="card-text--row">下一篇</div>
+    </div>
+  </article>
+</div>
+          
+          
+            <div class="article-nav-item layout-padding">
+  <article class="card-container article-nav-card content-padding--primary soft-size--large soft-style--box">
+    
+    <div class="card-text">
+      
+        <a href="/blog/2023/01/27-da7662ed7be9" itemprop="url">
+          <h2 class="card-text--title text-ellipsis">一觉醒来，我成了没书还要在家学习的大怨种</h2>
+        </a>
+      
+      <div class="card-text--row">上一篇</div>
+    </div>
+  </article>
+</div>
+          
+        </nav>
+      
 
-      
-      
+      <section class="page-message-container layout-padding">
+        
+
+
+  
+  
+
+  
+  
+
+
+      </section>
     </div>
     <div class="widget-info">
       <section class="widget-author widget-item layout-margin content-padding--primary soft-size--large soft-style--box">
@@ -163,6 +228,8 @@
     </div>
   </div>
 </section>
+
+      
 
       
 <section class="widet-notice widget-item layout-margin content-padding--primary soft-size--large soft-style--box">
@@ -223,12 +290,9 @@
     </div>
   </div>
 </section>
-
-      
     </div>
   </article>
 </div>
-
 
     <!-- footer container -->
 <footer id="footer" class="footer">
