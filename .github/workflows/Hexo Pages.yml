@@ -30,7 +30,9 @@ jobs:
 
     - name: Install hexo dependencies
       # 安装 hexo
-      run: npm install
+      run: |
+        npm install hexo-theme-vivia
+        npm install
 
     - name: Build
      # 编译 markdown 文件
