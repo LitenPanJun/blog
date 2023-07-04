@@ -8,7 +8,7 @@ date: 2023-07-04 01:21:08
 
 ## 推荐云服务提供商
 
-[![雨云](logo-rainyun.png)雨云——新一代云服务提供商](https://www.rainyun.com/MjI0MDE=_)
+[{% asset_img logo-rainyun.png 雨云 %}雨云——新一代云服务提供商](https://www.rainyun.com/MjI0MDE=_)
 
 ## 申请添加方式
 
